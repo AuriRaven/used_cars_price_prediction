@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Entorno virtual
+venv_practica1_m2/
+
 # Distribution / packaging
 .Python
 build/
