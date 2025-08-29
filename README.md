@@ -1,2 +1,1 @@
-# used_cars_price_prediction
-Pruebas de Métodos Lineales para la Predicción del Precio de Autos Usados
+# Modelos Lineales Predictivos para <span style="color: rgb(138, 92, 245);">Precios de Autos</span>
