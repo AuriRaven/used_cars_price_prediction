@@ -1,7 +1,5 @@
 # Modelos Lineales Predictivos para <span style="color: rgb(138, 92, 245);">Precios de Autos</span>
 
-# Modelos Lineales Predictivos para <span style="color: rgb(138, 92, 245);">Precios de Autos</span>
-
 ## <span style="color: rgb(138, 92, 245);">OBJETIVO</span>
 
 Este proyecto tiene como objetivo **predecir el precio de automóviles usados** a partir de un dataset con características como marca, modelo, año, kilometraje, tipo de combustible, transmisión, entre otras.  
