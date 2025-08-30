@@ -43,7 +43,7 @@ used_cars_price_prediction/
 
 1. **Exploración y limpieza de datos**
     
-    - Revisión de valores faltantes y duplicados.
+    - Revisión de valores faltantes e infinitos.
         
     - Tratamiento de outliers usando **DBSCAN**.
         
