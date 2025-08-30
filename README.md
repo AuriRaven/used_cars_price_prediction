@@ -12,8 +12,8 @@ Se implementaron técnicas de **limpieza de datos, tratamiento de outliers, mani
 
 used_cars_price_prediction/
 │
+├── Used Cars      # Carpeta de archivos csv
 ├── modelos_lineales.ipynb      # Notebook principal del proyecto
-├── df_final.csv                # Dataset limpio y procesado
 ├── requirements.txt            # Librerías necesarias
 ├── .gitignore                  # Exclusiones de Git (entornos, datos sensibles, etc.)
 └── README.md                   # Documentación del proyecto
