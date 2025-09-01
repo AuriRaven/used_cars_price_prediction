@@ -26,7 +26,7 @@ used_cars_price_prediction/
 >* 2.1 Limpieza e Ingeniería de Datos
 >* 2.2 Análisis Exploratorio de Datos
 >* 2.3 Construcción de Nuevas Variables
->1. Construcción de Modelos Lineales Predictivos 
+>3. Construcción de Modelos Lineales Predictivos 
 >* 3.1 Regresión Lineal
 >* 3.2 Regresión Logística
 >* 3.3 Regresión LASSO
